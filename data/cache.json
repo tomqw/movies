@@ -319,5 +319,32 @@
     "imdbUrl": "https://www.imdb.com/title/tt15047880/",
     "source": "cinemeta",
     "fetchedAt": "2026-08-23T18:35:31Z"
+  },
+  "tt26581740": {
+    "id": "tt26581740",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Weapons",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_.jpg",
+    "plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "rating": 7.4,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "runtime": "2h 9m",
+    "directors": [
+      "Zach Cregger"
+    ],
+    "stars": [
+      "Julia Garner",
+      "Josh Brolin"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt26581740/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T19:50:59Z"
   }
 }
