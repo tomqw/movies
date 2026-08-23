@@ -10,7 +10,6 @@ movie vs series automatically.
 
 - [Obsession (2025)](https://www.imdb.com/title/tt37287335/)
 - [The Invite (2026)](https://www.imdb.com/title/tt14173636/)
-- [Disclosure Day (2026)](https://www.imdb.com/title/tt15047880/)
 
 
 ## TV Shows
