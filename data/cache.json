@@ -346,5 +346,33 @@
     "imdbUrl": "https://www.imdb.com/title/tt26581740/",
     "source": "cinemeta",
     "fetchedAt": "2026-08-23T19:50:59Z"
+  },
+  "tt31193180": {
+    "id": "tt31193180",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Sinners",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_.jpg",
+    "plot": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "rating": 7.5,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "runtime": "2h 18m",
+    "directors": [
+      "Ryan Coogler"
+    ],
+    "stars": [
+      "Michael B. Jordan",
+      "Jack O'Connell"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt31193180/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T19:57:20Z"
   }
 }
