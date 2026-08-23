@@ -374,5 +374,33 @@
     "imdbUrl": "https://www.imdb.com/title/tt31193180/",
     "source": "cinemeta",
     "fetchedAt": "2026-08-23T19:57:20Z"
+  },
+  "tt16311594": {
+    "id": "tt16311594",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "F1: The Movie",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_.jpg",
+    "plot": "A Formula One driver comes out of retirement to mentor and team up with a younger driver.",
+    "rating": 7.6,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "runtime": "2h 36m",
+    "directors": [
+      "Joseph Kosinski"
+    ],
+    "stars": [
+      "Brad Pitt",
+      "Damson Idris"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt16311594/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T19:59:18Z"
   }
 }

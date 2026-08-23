@@ -12,7 +12,7 @@ movie vs series automatically.
 - [The Invite (2026)](https://www.imdb.com/title/tt14173636/)
 - [Weapons (2025)](https://www.imdb.com/title/tt26581740/)
 - [Sinners (2025)](https://www.imdb.com/title/tt31193180/)
-- https://www.imdb.com/title/tt16311594/
+- [F1: The Movie (2025)](https://www.imdb.com/title/tt16311594/)
 
 
 ## TV Shows
