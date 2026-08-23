@@ -1,0 +1,323 @@
+{
+  "tt0111161": {
+    "id": "tt0111161",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+    "plot": "After a banker is sentenced to life in Shawshank Prison, he forms an unlikely friendship with a seasoned inmate and clings to hope amid cruelty and corruption.",
+    "rating": 9.3,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "2h 22m",
+    "directors": [
+      "Frank Darabont"
+    ],
+    "stars": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt0111161/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:13:49Z"
+  },
+  "tt0468569": {
+    "id": "tt0468569",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+    "rating": 9.1,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": "2h 32m",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "stars": [
+      "Christian Bale",
+      "Heath Ledger"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt0468569/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:13:50Z"
+  },
+  "tt1375666": {
+    "id": "tt1375666",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Inception",
+    "year": 2010,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
+    "rating": 8.8,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": "2h 28m",
+    "directors": [
+      "Christopher Nolan"
+    ],
+    "stars": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt1375666/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:13:51Z"
+  },
+  "tt0903747": {
+    "id": "tt0903747",
+    "kind": "series",
+    "typeLabel": "Series",
+    "title": "Breaking Bad",
+    "year": 2008,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWE4NTc3YmYtNmU2Mi00ZjhkLWE1MTItZmM1M2U1ODU3YjFlXkEyXkFqcGc@._V1_.jpg",
+    "plot": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+    "rating": 9.5,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "runtime": "49m",
+    "directors": [],
+    "stars": [
+      "Bryan Cranston",
+      "Aaron Paul"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt0903747/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:13:52Z"
+  },
+  "tt4574334": {
+    "id": "tt4574334",
+    "kind": "series",
+    "typeLabel": "Series",
+    "title": "Stranger Things",
+    "year": 2016,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_.jpg",
+    "plot": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+    "rating": 8.6,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "runtime": "1h 5m",
+    "directors": [],
+    "stars": [
+      "Millie Bobby Brown",
+      "Finn Wolfhard"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt4574334/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:13:53Z"
+  },
+  "tt37287335": {
+    "id": "tt37287335",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Obsession",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_.jpg",
+    "plot": "Baron \"Bear\" Bailey breaks a novelty charm to force his co-worker Nikki Freeman to love him, but the supernatural compulsion warps her mind into violent obsession, trapping him in a nightmare he cannot wish away.",
+    "rating": 7.9,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "runtime": "1h 49m",
+    "directors": [
+      "Curry Barker"
+    ],
+    "stars": [
+      "Michael Johnston",
+      "Inde Navarrette"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt37287335/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:20:04Z"
+  },
+  "tt14173636": {
+    "id": "tt14173636",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "The Invite",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_.jpg",
+    "plot": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+    "rating": 7.8,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": "1h 47m",
+    "directors": [
+      "Olivia Wilde"
+    ],
+    "stars": [
+      "Seth Rogen",
+      "Olivia Wilde"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt14173636/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:20:05Z"
+  },
+  "tt11280740": {
+    "id": "tt11280740",
+    "kind": "series",
+    "typeLabel": "Series",
+    "title": "Severance",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+    "plot": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+    "rating": 8.6,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "runtime": "49m",
+    "directors": [],
+    "stars": [
+      "Adam Scott",
+      "Britt Lower"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt11280740/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:20:06Z"
+  },
+  "tt33332385": {
+    "id": "tt33332385",
+    "kind": "series",
+    "typeLabel": "Series",
+    "title": "Widow's Bay",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDBiMWZlMDQtNzkzMi00YzQzLTkwNTUtNzYwOGY3YmUxNDJjXkEyXkFqcGc@._V1_.jpg",
+    "plot": "A skeptical mayor leads the superstitious residents of a cursed New England island.",
+    "rating": 8.2,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "runtime": "38m",
+    "directors": [],
+    "stars": [
+      "Matthew Rhys",
+      "Kate O'Flynn"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt33332385/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:20:07Z"
+  },
+  "tt14688458": {
+    "id": "tt14688458",
+    "kind": "series",
+    "typeLabel": "Series",
+    "title": "Silo",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2E5ODJmOTUtYTk0NS00NmFiLTk0MTgtZDRlNzE1YmExMjk4XkEyXkFqcGc@._V1_.jpg",
+    "plot": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
+    "rating": 8.1,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "runtime": "51m",
+    "directors": [],
+    "stars": [
+      "Shane McRae",
+      "Rebecca Ferguson"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt14688458/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:20:08Z"
+  },
+  "tt7772588": {
+    "id": "tt7772588",
+    "kind": "series",
+    "typeLabel": "Series",
+    "title": "For All Mankind",
+    "year": 2019,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmI5OTNmYWQtNjRhNy00MWYxLWJjMzAtMmRlNDU1ZjBhMzhlXkEyXkFqcGc@._V1_.jpg",
+    "plot": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+    "rating": 8.1,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "runtime": "59m",
+    "directors": [],
+    "stars": [
+      "Joel Kinnaman",
+      "Michael Dorman"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt7772588/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:20:09Z"
+  },
+  "tt15047880": {
+    "id": "tt15047880",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Disclosure Day",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_.jpg",
+    "plot": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
+    "rating": 6.4,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": "2h 26m",
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "stars": [
+      "Emily Blunt",
+      "Josh O'Connor"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt15047880/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-08-23T18:35:31Z"
+  }
+}
