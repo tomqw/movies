@@ -485,5 +485,32 @@
     "imdbUrl": "https://www.imdb.com/title/tt1312221/",
     "source": "cinemeta",
     "fetchedAt": "2026-10-25T17:26:24Z"
+  },
+  "tt31514146": {
+    "id": "tt31514146",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "I Swear",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQxYTMyZTktZDg5Yi00Y2YwLWI4YzQtMjkyYmYxNmFjYThmXkEyXkFqcGc@._V1_.jpg",
+    "plot": "John Davidson: diagnosed with Tourette's syndrome at a young age which alienated him from his peers, he struggled with a condition few people had witnessed.",
+    "rating": 8.3,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "runtime": "2h 1m",
+    "directors": [
+      "Kirk Jones"
+    ],
+    "stars": [
+      "Robert Aramayo",
+      "Maxine Peake"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt31514146/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-10-25T18:01:21Z"
   }
 }

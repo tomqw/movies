@@ -14,7 +14,7 @@ movie vs series automatically.
 - [Weapons (2025)](https://www.imdb.com/title/tt26581740/)
 - [Sinners (2025)](https://www.imdb.com/title/tt31193180/)
 - [F1: The Movie (2025)](https://www.imdb.com/title/tt16311594/)
-- https://www.imdb.com/title/tt31514146/
+- [I Swear (2025)](https://www.imdb.com/title/tt31514146/)
 
 
 ## TV Shows
