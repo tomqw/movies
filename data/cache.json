@@ -512,5 +512,31 @@
     "imdbUrl": "https://www.imdb.com/title/tt31514146/",
     "source": "cinemeta",
     "fetchedAt": "2026-10-25T18:01:21Z"
+  },
+  "tt27714581": {
+    "id": "tt27714581",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Sentimental Value",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTMwMTk0Y2QtY2VhNy00OGYwLThkMjMtZjkwMGI3MTJiMjAyXkEyXkFqcGc@._V1_.jpg",
+    "plot": "An intimate exploration of family, memories, and the reconciliatory power of art.",
+    "rating": 7.7,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "2h 13m",
+    "directors": [
+      "Joachim Trier"
+    ],
+    "stars": [
+      "Renate Reinsve",
+      "Stellan Skarsgård"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt27714581/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-10-25T18:21:34Z"
   }
 }
