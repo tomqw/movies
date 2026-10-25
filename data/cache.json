@@ -457,5 +457,33 @@
     "imdbUrl": "https://www.imdb.com/title/tt4513678/",
     "source": "cinemeta",
     "fetchedAt": "2026-10-25T15:57:20Z"
+  },
+  "tt1312221": {
+    "id": "tt1312221",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Frankenstein",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg",
+    "plot": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+    "rating": 7.4,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "runtime": "2h 30m",
+    "directors": [
+      "Guillermo del Toro"
+    ],
+    "stars": [
+      "Oscar Isaac",
+      "Jacob Elordi"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt1312221/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-10-25T17:26:24Z"
   }
 }
