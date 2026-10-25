@@ -429,5 +429,33 @@
     "imdbUrl": "https://www.imdb.com/title/tt10640346/",
     "source": "cinemeta",
     "fetchedAt": "2026-10-25T15:55:08Z"
+  },
+  "tt4513678": {
+    "id": "tt4513678",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Ghostbusters: Afterlife",
+    "year": 2021,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDJmZmM2NmQtMzhlYi00MGNkLTlhMWUtYjM1MmFlMTA1YTliXkEyXkFqcGc@._V1_.jpg",
+    "plot": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+    "rating": 7.0,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "runtime": "2h 4m",
+    "directors": [
+      "Jason Reitman"
+    ],
+    "stars": [
+      "Carrie Coon",
+      "Paul Rudd"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt4513678/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-10-25T15:57:20Z"
   }
 }
