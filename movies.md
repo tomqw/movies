@@ -9,6 +9,7 @@ movie vs series automatically.
 ## Movies
 - [Ghostbusters: Afterlife (2021)](https://www.imdb.com/title/tt4513678/)
 - [Babylon (2022)](https://www.imdb.com/title/tt10640346/)
+- https://www.imdb.com/title/tt27503384/
 - [Frankenstein (2025)](https://www.imdb.com/title/tt1312221/)
 - [Obsession (2025)](https://www.imdb.com/title/tt37287335/)
 - [Weapons (2025)](https://www.imdb.com/title/tt26581740/)
