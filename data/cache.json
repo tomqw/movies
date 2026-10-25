@@ -402,5 +402,32 @@
     "imdbUrl": "https://www.imdb.com/title/tt16311594/",
     "source": "cinemeta",
     "fetchedAt": "2026-08-23T19:59:18Z"
+  },
+  "tt10640346": {
+    "id": "tt10640346",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Babylon",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGY3M2NkN2QtZTdhOS00YTNjLTgyYmMtMGY3Y2U0OTk2NjA0XkEyXkFqcGc@._V1_.jpg",
+    "plot": "A tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
+    "rating": 7.1,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "runtime": "3h 9m",
+    "directors": [
+      "Damien Chazelle"
+    ],
+    "stars": [
+      "Brad Pitt",
+      "Margot Robbie"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt10640346/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-10-25T15:55:08Z"
   }
 }
