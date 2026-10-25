@@ -566,5 +566,31 @@
     "imdbUrl": "https://www.imdb.com/title/tt17009710/",
     "source": "cinemeta",
     "fetchedAt": "2026-10-25T18:27:04Z"
+  },
+  "tt27503384": {
+    "id": "tt27503384",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Perfect Days",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVmODFkM2MtOTEzMy00MjFjLThjZmYtODMxZmI1MzcyNDkyXkEyXkFqcGc@._V1_.jpg",
+    "plot": "Hirayama cleans public toilets in Tokyo, lives his life in simplicity and daily tranquility. Some encounters also lead him to reflect on himself.",
+    "rating": 7.9,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "2h 4m",
+    "directors": [
+      "Wim Wenders"
+    ],
+    "stars": [
+      "Kōji Yakusho",
+      "Tokio Emoto"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt27503384/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-10-25T20:41:56Z"
   }
 }
