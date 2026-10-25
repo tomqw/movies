@@ -538,5 +538,33 @@
     "imdbUrl": "https://www.imdb.com/title/tt27714581/",
     "source": "cinemeta",
     "fetchedAt": "2026-10-25T18:21:34Z"
+  },
+  "tt17009710": {
+    "id": "tt17009710",
+    "kind": "movie",
+    "typeLabel": "Movie",
+    "title": "Anatomy of a Fall",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_.jpg",
+    "plot": "A woman is suspected of murder after her husband's death; their half-blind son faces a moral dilemma as the main witness.",
+    "rating": 7.6,
+    "votes": null,
+    "contentRating": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "runtime": "2h 31m",
+    "directors": [
+      "Justine Triet"
+    ],
+    "stars": [
+      "Sandra Hüller",
+      "Swann Arlaud"
+    ],
+    "imdbUrl": "https://www.imdb.com/title/tt17009710/",
+    "source": "cinemeta",
+    "fetchedAt": "2026-10-25T18:27:04Z"
   }
 }
