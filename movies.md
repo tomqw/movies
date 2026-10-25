@@ -15,6 +15,7 @@ movie vs series automatically.
 - [Sinners (2025)](https://www.imdb.com/title/tt31193180/)
 - [F1: The Movie (2025)](https://www.imdb.com/title/tt16311594/)
 - [I Swear (2025)](https://www.imdb.com/title/tt31514146/)
+- https://www.imdb.com/title/tt27714581/
 
 
 ## TV Shows
